@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yourwebsite.com/</loc>
+    <loc>https://mxolisi-hub.github.io/</loc>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://yourwebsite.com/#about</loc>
+    <loc>https://mxolisi-hub.github.io/#about</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://yourwebsite.com/#gallery</loc>
+    <loc>https://mxolisi-hub.github.io/#gallery</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://yourwebsite.com/#performances</loc>
+    <loc>https://mxolisi-hub.github.io/#performances</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://yourwebsite.com/#contact</loc>
+    <loc>https://mxolisi-hub.github.io/#contact</loc>
     <priority>0.90</priority>
   </url>
 </urlset>
