@@ -203,6 +203,7 @@ body {
   margin-left: 200px; 
   position: relative;
   z-index: 2;
+  margin-top: 80px;
 }
 
 .section.visible {
@@ -541,5 +542,6 @@ footer {
     margin-left: 0;
   }
 }
+
 
 
