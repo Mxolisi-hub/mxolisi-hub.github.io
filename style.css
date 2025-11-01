@@ -155,7 +155,7 @@ body {
 
 .hero-content h1 {
   font-family: 'Playfair Display', serif;
-  font-size: 72px;
+  font-size: 50px;
   margin-bottom: 25px;
   color: #FFFFFF;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
@@ -566,6 +566,7 @@ footer {
     margin-top: 20px;
   }
 }
+
 
 
 
