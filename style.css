@@ -534,4 +534,12 @@ footer {
 }
 
 
+@media (max-width: 768px) {
+  .hero,
+  .section,
+  footer {
+    margin-left: 0;
+  }
+}
+
 
