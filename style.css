@@ -203,7 +203,7 @@ body {
   margin-left: 200px; 
   position: relative;
   z-index: 2;
-  margin-top: 80px;
+  
 }
 
 .section.visible {
@@ -536,12 +536,30 @@ footer {
 
 
 @media (max-width: 768px) {
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    background: rgba(27, 38, 59, 0.9);
+    padding: 15px 20px;
+    z-index: 1000;
+  }
+
   .hero,
   .section,
   footer {
     margin-left: 0;
+    padding-top: 100px;
+  }
+
+  .section {
+    margin-top: 80px;
   }
 }
+
+
 
 
 
