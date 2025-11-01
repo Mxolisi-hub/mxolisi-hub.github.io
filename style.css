@@ -9,7 +9,7 @@ body {
   font-family: 'Lora', serif;
   line-height: 1.8;
   scroll-behavior: smooth;
-  background: url('black.JPG') no-repeat center center fixed;
+  background: url('black.jpg') no-repeat center center fixed;
   background-size: cover;
   overflow-x: auto;
   color: #FFFFFF;
@@ -532,4 +532,5 @@ footer {
   z-index: 2;
   margin-left: 200px; 
 }
+
 
