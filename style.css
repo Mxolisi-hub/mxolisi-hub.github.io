@@ -140,7 +140,7 @@ body {
 }
 
 .hero {
-  height: 00vh;
+  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -558,6 +558,7 @@ footer {
     margin-top: 80px;
   }
 }
+
 
 
 
