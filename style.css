@@ -51,7 +51,7 @@ body {
   background: rgba(27, 38, 59, 0.8);
   box-shadow: 4px 0 10px rgba(0, 0, 0, 0.3);
   position: fixed;
-  width: 200px;
+  width: 20px;
   height: 100vh;
   top: 0;
   left: 0;
@@ -140,7 +140,7 @@ body {
 }
 
 .hero {
-  height: 100vh;
+  height: 00vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -532,5 +532,6 @@ footer {
   z-index: 2;
   margin-left: 200px; 
 }
+
 
 
